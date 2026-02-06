@@ -1,4 +1,4 @@
-=== SouqMetrics – WooCommerce Attribution ===
+=== SouqMetrics Attribution for Woo ===
 Contributors: souqmetrics
 Tags: woocommerce, attribution, utm, analytics, marketing
 Requires at least: 5.8
