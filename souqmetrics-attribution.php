@@ -1,5 +1,5 @@
 /**
- * Plugin Name: SouqMetrics – WooCommerce Attribution
+ * Plugin Name: SouqMetrics Attribution for Woo
  * Plugin URI: https://souqmetrics.online
  * Description: Captures UTM parameters and click IDs and attaches them to WooCommerce orders for attribution.
  * Version: 1.0.0
