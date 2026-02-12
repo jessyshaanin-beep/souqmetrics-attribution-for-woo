@@ -1,4 +1,4 @@
-=== SouqMetrics Attribution for Woo ===
+=== SouqMetrics Attribution ===
 Contributors: souqmetrics
 Tags: woocommerce, attribution, utm, analytics, marketing
 Requires at least: 5.8
@@ -11,7 +11,7 @@ Capture marketing attribution data (UTMs and click IDs) and attach it to WooComm
 
 == Description ==
 
-SouqMetrics – Attribution for Woo is a lightweight plugin that captures marketing attribution data and stores it directly on WooCommerce orders.
+SouqMetrics Attribution is a lightweight plugin that captures marketing attribution data and stores it directly on WooCommerce orders.
 
 The plugin works automatically after activation and requires no configuration.
 
@@ -29,7 +29,7 @@ It is designed to support analytics and reporting tools by making attribution da
 == Installation ==
 
 1. Go to Plugins → Add New
-2. Search for "SouqMetrics WooCommerce Attribution"
+2. Search for "SouqMetrics Attribution"
 3. Click Install and Activate
 
 == Frequently Asked Questions ==
